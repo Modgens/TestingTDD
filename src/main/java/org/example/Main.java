@@ -6,6 +6,7 @@ import java.util.List;
 import java.util.stream.IntStream;
 
 public class Main {
+    // 7 Варіант
 
     public static void main(String[] args) {
         Main main = new Main(); // Створення об'єкта класу Main
